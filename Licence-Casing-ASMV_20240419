@@ -3,26 +3,27 @@ Hardware Source Licence (HSL) Version 1.0
 
 Summary :
 
-This Licence, ìHardware Source Licenceî or ìHSLî is adapted to apply to hardware, including physical components, designs, schematics, and related documentation.†This ìHSLî allows free use for research, development, and private purposes, while commercial usage is subject to negotiation and payment.†The terms of this licence shall transition to the Open Source Hardware following the Effective Change Date as specified herein. By default the Change Licence to be applied will be the CERN Open Source Hardware Licence Strongly Reciprocal (OHL SR).
+This Licence, ‚ÄúHardware Source Licence‚Äù or ‚ÄúHSL‚Äù is adapted to apply to hardware, including physical components, designs, schematics, and related documentation.¬†This ‚ÄúHSL‚Äù allows free use for research, development, and private purposes, while commercial usage is subject to negotiation and payment.¬†The terms of this licence shall transition to the Open Source Hardware following the Effective Change Date as specified herein. By default the Change Licence to be applied will be the CERN Open Source Hardware Licence Strongly Reciprocal (OHL SR).
 
+HSL Licence 1.0 Source: https://github.com/Hardware-Source-Licence/HSL-V1.0/blob/main/README.md 
 
 HSL Licence Parameters :
 
-* Licensed Work (ìProductî):†ìCasing ASMVî
-* Date of Publication of Licensed Work:†ìThe GitHub Date of the latest updated file of the current Branch You are in.î
-* Change Licence:†ìOpen Hardware Licence Strongly Reciprocal latest version 2î- available from CERN on:†https://ohwr.org/cern_ohl_s_v2.pdf†and alternate link†https://cern-ohl.web.cern.ch/
-* Change Date:†ìFour years from the date the Licensed Work is publishedî
-* Additional Use Grant:†None
-* Licensor:†ìM-RAL Associationî
-* Licensor Contacts: ìhttps://github.com/M-RAL & MermozRAL.Association@gmail.comî 
+* Licensed Work (‚ÄúProduct‚Äù):¬†‚ÄúCasing ASMV‚Äù
+* Date of Publication of Licensed Work:¬†‚ÄúThe GitHub Date of the latest updated file of the current Branch You are in.‚Äù
+* Change Licence:¬†‚ÄúOpen Hardware Licence Strongly Reciprocal latest version 2‚Äù- available from CERN on:¬†https://ohwr.org/cern_ohl_s_v2.pdf¬†and alternate link¬†https://cern-ohl.web.cern.ch/
+* Change Date:¬†‚ÄúFour years from the date the Licensed Work is published‚Äù
+* Additional Use Grant:¬†None
+* Licensor:¬†‚ÄúM-RAL Association‚Äù
+* Licensor Contacts: ‚Äúhttps://github.com/M-RAL & MermozRAL.Association@gmail.com‚Äù 
 
 
 Hardware Source Licence Version 1.0 Terms
 
 1. Definitions
-* Hardware: Any physical device, component, machinery, or related documentation covered under this licence, also referred to as ìProductî.
-* Make:†means to create or configure something, whether by manufacture, assembly, compiling, loading or applying or using or derivating the Licensed Work to create a hardware (Product).
-* Notice:†means copyright, acknowledgement and trademark notices, Source Location references, modification notices and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Licenced Work.
+* Hardware: Any physical device, component, machinery, or related documentation covered under this licence, also referred to as ‚ÄúProduct‚Äù.
+* Make:¬†means to create or configure something, whether by manufacture, assembly, compiling, loading or applying or using or derivating the Licensed Work to create a hardware (Product).
+* Notice:¬†means copyright, acknowledgement and trademark notices, Source Location references, modification notices and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Licenced Work.
 * Effective Change Date: The predetermined date or condition upon which this license will transition from this Hardware Source Licence to the Change Licence.
 * Commercial Use: The use of the hardware for direct or indirect financial gain.
 
@@ -52,7 +53,7 @@ Users will then have to comply with the terms of the Change Licence post-transit
 
 7. Limitation of Liability & Disclaimer of Warranty
 This Licence does not grant you any right in any trademark or logo of Licensor or its affiliates (provided that you may use a trademark or logo of Licensor as expressly required by this License).
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED ON AN ìAS ISî BASIS.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED ON AN ‚ÄúAS IS‚Äù BASIS.
 LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING (WITHOUT LIMITATION) WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND TITLE.
 The licensors are not liable for any claim, damages, or other liability arising from the use or distribution of the hardware.
 The Licensor shall, to the maximum extent permitted by law, have no liability for direct, indirect, special, incidental, consequential, exemplary, punitive or other damages of any character including, without limitation, procurement of substitute goods or services, loss of use, data or profits, or business interruption, however caused and on any theory of contract, warranty, tort (including negligence), product liability or otherwise, arising in any way in relation to the Covered Source, modified Covered Source and/or the Making or Conveyance of a Product, even if advised of the possibility of such damages, and You shall hold the Licensor(s) free and harmless from any liability, costs, damages, fees and expenses, including claims by third parties, in relation to such use.
